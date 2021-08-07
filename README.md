@@ -1,10 +1,10 @@
 # Deep Learning Paper Review
-> 딥러닝 논문을 읽고 정리하였습니다. 계속 업데이트 할 예정입니다.
+> 딥러닝 논문을 읽고 정리하였습니다. 계속 업데이트 할 예정입니다
 
 ## Computer Vision
 ### Model
-- ImageNet Classification with Deep Convolutional Neural Networks / [논문리뷰](https://bramble-orbit-e15.notion.site/ImageNet-Classification-with-Deep-Convolutional-Neural-Networks-88cdcd03053144bba5c4d39f8fb93e9f) / 코드리뷰
-  AlexNet  
+- ImageNet Classification with Deep Convolutional Neural Networks / [논문리뷰](https://bramble-orbit-e15.notion.site/ImageNet-Classification-with-Deep-Convolutional-Neural-Networks-88cdcd03053144bba5c4d39f8fb93e9f) / 코드리뷰  
+AlexNet
 - Very Deep Convolutional Networks for Large-Scale Image Recognition / [논문리뷰](https://bramble-orbit-e15.notion.site/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition-2dc38e14c1524f5d843ed9d0d41ad2ed) / 코드리뷰
 
 
