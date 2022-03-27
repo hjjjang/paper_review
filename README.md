@@ -3,8 +3,8 @@
 
 ## Computer Vision
 ### Model
-- [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf): [Paper Review](https://bramble-orbit-e15.notion.site/ImageNet-Classification-with-Deep-Convolutional-Neural-Networks-88cdcd03053144bba5c4d39f8fb93e9f)
-- Very Deep Convolutional Networks for Large-Scale Image Recognition: [Paper Review](https://bramble-orbit-e15.notion.site/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition-2dc38e14c1524f5d843ed9d0d41ad2ed) / [Code Implementation](https://github.com/hjjjang/paper_review/code_implementation/VGG_CIFAR10.ipynb)
+- ImageNet Classification with Deep Convolutional Neural Networks([Paper](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)): [Paper Review](https://bramble-orbit-e15.notion.site/ImageNet-Classification-with-Deep-Convolutional-Neural-Networks-88cdcd03053144bba5c4d39f8fb93e9f)
+- Very Deep Convolutional Networks for Large-Scale Image Recognition: [Paper Review](https://bramble-orbit-e15.notion.site/Very-Deep-Convolutional-Networks-for-Large-Scale-Image-Recognition-2dc38e14c1524f5d843ed9d0d41ad2ed) / [Code Implementation](https://github.com/hjjjang/paper_review/blob/master/code_implementation/VGG_CIFAR10.ipynb)
 
 
 ## Natural Language Processing
