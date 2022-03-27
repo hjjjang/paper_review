@@ -17,10 +17,10 @@
 ## Generative Model
 ### GAN
 - Generative Adersarial Nets ([Paper](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)): [Review](https://bramble-orbit-e15.notion.site/Generative-Adversarial-Nets-315735650ae042c5b1ac723c1e485472)
-- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks([Paper](https://arxiv.org/pdf/1511.06434.pdf)): [Review](https://bramble-orbit-e15.notion.site/Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adversarial-Networks-dc98d32b117448e1a25dc5057b74f10a)
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks ([Paper](https://arxiv.org/pdf/1511.06434.pdf)): [Review](https://bramble-orbit-e15.notion.site/Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adversarial-Networks-dc98d32b117448e1a25dc5057b74f10a)
 ### etc
-- Auto-Encoding Variational Bayes ([Paper](https://arxiv.org/pdf/1312.6114.pdf)) / [Review](https://bramble-orbit-e15.notion.site/Auto-Encoding-Variational-Bayes-026cad5592f84db7954b273727d2d958)
+- Auto-Encoding Variational Bayes ([Paper](https://arxiv.org/pdf/1312.6114.pdf)): [Review](https://bramble-orbit-e15.notion.site/Auto-Encoding-Variational-Bayes-026cad5592f84db7954b273727d2d958)
 
 
 ## Audio
-- WaveNet: A Generative Model for Raw Audio ([Paper](https://arxiv.org/pdf/1609.03499.pdf)) / [Review](https://bramble-orbit-e15.notion.site/Auto-Encoding-Variational-Bayes-026cad5592f84db7954b273727d2d958)
+- WaveNet: A Generative Model for Raw Audio ([Paper](https://arxiv.org/pdf/1609.03499.pdf)): [Review](https://bramble-orbit-e15.notion.site/Auto-Encoding-Variational-Bayes-026cad5592f84db7954b273727d2d958)
